@@ -1,2 +1,3 @@
 # Covid-19-Data-Analysis
-Utilized Biopython to briefly analyse Covid-19 
+
+Protein Sequence Analysis of Covid19 using BioPython. Explored and conducted simple protein synthesis of Covid-19 DNA sequence using Biopython. 
